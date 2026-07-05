@@ -410,6 +410,10 @@
                         "chancetodrop": 0.3
                     },
                     {
+                        "dino": "/Game/Packs/TidesOfFortune/Dinos/Axolotl/Axolotl_Small/Axolotl_Small_Character_BP.Axolotl_Small_Character_BP_C",
+                        "chancetodrop": 0.3
+                    },
+                    {
                         "dino": "/Game/ScorchedEarth/Dinos/RockGolem/RockGolem_Character_BP.RockGolem_Character_BP_C",
                         "chancetodrop": 0.3
                     },
