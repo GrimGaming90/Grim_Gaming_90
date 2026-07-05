@@ -374,6 +374,30 @@
 						"chancetodrop": 0.4
 					},
 					{
+						"dino": "/Game/Genesis/Dinos/Shapeshifter/Shapeshifter_Small/Shapeshifter_Small_Character_BP.Shapeshifter_Small_Character_BP_C",
+						"chancetodrop": 0.3
+					},
+					{
+						"dino": "/Game/Genesis/Dinos/GiantTurtle/GiantTurtle_Character_BP.GiantTurtle_Character_BP_C",
+						"chancetodrop": 0.3
+					},
+					{
+						"dino": "/Game/Genesis/Dinos/Cherufe/Cherufe_Character_BP.Cherufe_Character_BP_C",
+						"chancetodrop": 0.3
+					},
+					{
+						"dino": "/Game/Genesis/Dinos/BogSpider/BogSpider_Character_BP.BogSpider_Character_BP_C",
+						"chancetodrop": 0.3
+					},
+					{
+						"dino": "/Game/Packs/TidesOfFortune/Dinos/Parrot/Parrot_Character_BP.Parrot_Character_BP_C",
+						"chancetodrop": 0.3
+					},
+					{
+						"dino": "/Game/Packs/TidesOfFortune/Dinos/Paleoctopus/Palaeoctopus_Character_BP.Palaeoctopus_Character_BP_C",
+						"chancetodrop": 0.3
+					},
+					{
 						"dino": "/Game/ScorchedEarth/Dinos/RockGolem/RockGolem_Character_BP.RockGolem_Character_BP_C",
 						"chancetodrop": 0.3
 					},
