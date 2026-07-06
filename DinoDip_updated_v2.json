@@ -414,6 +414,10 @@
                         "chancetodrop": 0.3
                     },
                     {
+                        "dino": "/Game/PrimalEarth/Dinos/Spider-Small/SpiderS_Character_BP.SpiderS_Character_BP_C",
+                        "chancetodrop": 0.3
+                    },
+                    {
                         "dino": "/Game/ScorchedEarth/Dinos/RockGolem/RockGolem_Character_BP.RockGolem_Character_BP_C",
                         "chancetodrop": 0.3
                     },
